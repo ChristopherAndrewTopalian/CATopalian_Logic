@@ -9,6 +9,8 @@ A Logic Tutorial for everyone.
 
 * ## [Strawman](src/fallacies/Strawman/Strawman.md)
 
+* ## [False Dilemma](src/fallacies/False_Dilemma/False_Dilemma.md)
+
 ---
 
 //----//
