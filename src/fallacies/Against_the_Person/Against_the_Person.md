@@ -8,7 +8,7 @@ Person (X) responds to Person (Y)'s argument
 by attacking **Y's character, traits, or circumstances**,
 rather than **engaging with the argument itself**.
 
-This is meant to **undermine credibility** without addressing the logic or evidence presented.
+They attempt to **undermine credibility** without addressing the logic or evidence presented.
 
 ---
 
