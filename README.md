@@ -11,6 +11,9 @@ A Logic Tutorial for everyone.
 
 * ## [False Dilemma](src/fallacies/False_Dilemma/False_Dilemma.md)
 
+* ## [Against the Person](src/fallacies/Against_the_Person/Against_the_Person.md)
+
+
 ---
 
 //----//
